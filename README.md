@@ -1,2 +1,3 @@
-# Nipple-Labs
-DeFi
+# Solidity / React 
+Nipple Labs
+DeFi platform
